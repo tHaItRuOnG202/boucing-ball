@@ -1,0 +1,9 @@
+E:\LTGD\BTH2\BongNay\BongNay\bin\Debug\BongNay.exe.config
+E:\LTGD\BTH2\BongNay\BongNay\bin\Debug\BongNay.exe
+E:\LTGD\BTH2\BongNay\BongNay\bin\Debug\BongNay.pdb
+E:\LTGD\BTH2\BongNay\BongNay\obj\Debug\BongNay.csprojResolveAssemblyReference.cache
+E:\LTGD\BTH2\BongNay\BongNay\obj\Debug\BongNay.Form1.resources
+E:\LTGD\BTH2\BongNay\BongNay\obj\Debug\BongNay.Properties.Resources.resources
+E:\LTGD\BTH2\BongNay\BongNay\obj\Debug\BongNay.csproj.GenerateResource.Cache
+E:\LTGD\BTH2\BongNay\BongNay\obj\Debug\BongNay.exe
+E:\LTGD\BTH2\BongNay\BongNay\obj\Debug\BongNay.pdb
